@@ -10,7 +10,7 @@
 
 ## Связанные проекты
 
-- **[GPS Tracker Hardware](https://github.com/Dean7773/location_tracker)** - Сервис для просмотра маршрутов записанных при помощи GPS устройств.
+- **[GPS Location Tracker](https://github.com/Dean7773/location_tracker)** - Сервис для просмотра маршрутов записанных при помощи GPS устройств.
 
 ## ✨ Основные возможности
 
